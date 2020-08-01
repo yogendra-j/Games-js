@@ -1,0 +1,9 @@
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  height: 384px;
+  width: 512px;
+}
+span {
+  color: brown;
+}
